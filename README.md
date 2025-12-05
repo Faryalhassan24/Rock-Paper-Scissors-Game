@@ -1,4 +1,4 @@
-Stone, Paper, Scissors Game 
+** Stone, Paper, Scissors Game **
 
 A simple and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript. Play against the computer, track scores, and enjoy smooth animations with a fully responsive UI.
 
